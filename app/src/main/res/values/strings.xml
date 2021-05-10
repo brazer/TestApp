@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="message_something_went_wrong">Something went wrong</string>
+    <string name="detail_title">Title: %s</string>
+    <string name="detail_author">Author: %s</string>
+    <string name="detail_description">Description: %s</string>
+    <string name="label_list_page">Art</string>
+    <string name="label_detail_page">Details</string>
+</resources>
